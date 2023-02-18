@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main -  print the last digit of a random number and whether it is equal to 0, is greater than 5 or <6 && !=0
+ * main -  describe whether last digit = 0, > 5 or <6 && !=0
  *
  * Return: 0
  */
@@ -20,7 +20,7 @@ int main(void)
 	{
 		printf("and is greater than 5");
 	}
-	if (x==0)
+	if (x == 0)
 	{
 		printf("and is 0");
 	}
@@ -30,3 +30,4 @@ int main(void)
 	}
 	printf("\n");
 	return (0);
+}
