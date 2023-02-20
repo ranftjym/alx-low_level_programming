@@ -2,7 +2,7 @@
 /**
  * main - print alphabet in both lower and uppercase
  *
- * Description:alphabet in lowercase, then uppercase, followed by a new line
+ * Description: alphabet in lowercase, then uppercase, followed by a new line
  *
  * Return: Always 0 (Success)
 */
